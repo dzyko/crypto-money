@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="245px" viewBox="0 0 256 245" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Lykke</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#E14558" offset="0%"></stop>
+            <stop stop-color="#AB4DD3" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Classic" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-300.000000, -4676.000000)" id="Lykke">
+            <g transform="translate(300.000000, 4676.000000)">
+                <polygon id="Combined-Shape" fill="" points="127.980472 2.04799999e-05 127.980472 130.889236 226.874501 130.889236 255.961016 100.63915 157.648722 100.63915 157.648722 30.2500045"></polygon>
+                <polygon id="Fill-1" fill="url(#linearGradient-1)" points="58.1728666 201.860178 58.1728666 244.32638 127.980483 173.355397 197.787996 244.32638 197.787996 201.860178 127.980483 130.889196"></polygon>
+                <polygon id="Fill-2" fill="#F2953A" points="0 100.639201 29.6682496 130.889288 127.980442 130.889288 98.3122944 100.639201"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

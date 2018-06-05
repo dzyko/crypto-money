@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="258px" height="258px" viewBox="0 0 258 258" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Vertcoin</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="61.4017293%" y1="56.0987691%" x2="87.7151709%" y2="70.2715807%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="17.1755421%"></stop>
+            <stop stop-color="#BFBFBF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="45.6051138%" y1="73.8511623%" x2="72.0045604%" y2="49.619912%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#B3B3B3" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Classic" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-3387.000000, -2487.000000)" id="Vertcoin">
+            <g transform="translate(3388.000000, 2488.000000)">
+                <circle id="Oval-9" stroke="#E5E5E5" fill="#FFFFFF" cx="128" cy="128" r="128"></circle>
+                <path d="M214.95238,34.0668584 C192.122526,12.9235301 161.570489,0 128,0 C57.307552,0 0,57.307552 0,128 C0,198.692448 57.307552,256 128,256 C198.692448,256 256,198.692448 256,128 C256,107.580184 251.218441,88.2771599 242.713907,71.1495124 C174.107299,169.497734 138.194516,220.714531 134.975553,224.799894 C129.976884,231.143981 123.436671,230.945162 119.715212,226.040336 C117.23424,222.770453 110.676514,214.046904 100.042035,199.869691 L50.5859719,135.064124 L21.7973401,135.064124 L37.3446089,115.82241 L94.0885469,115.82241 L127.258304,160.648612 L214.95238,34.0668584 Z" id="Combined-Shape" fill="#2E572E"></path>
+                <polygon id="Fill-1" fill="url(#linearGradient-1)" points="94.0885469 115.82241 127.258304 160.648612 100.042035 199.869691 50.5859719 135.064124"></polygon>
+                <polygon id="Fill-1" fill="url(#linearGradient-2)" points="37.3446089 115.82241 50.5859719 135.064124 21.7973401 135.064124"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
