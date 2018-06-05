@@ -27,9 +27,8 @@ class CryptoDetailsStore {
       axios("https://api.coinmarketcap.com/v2/ticker/?limit=20")
       // .then(resp => resp.json())
       .then(resp => {
-        console.log("=========== loadCryptos ==================");
-        
-        console.log(resp);
+        // console.log("=========== loadCryptos ==================");
+        // console.log(resp);
         
         runInAction(()=>{
           this.cryptoList = Object.values(resp.data.data);

@@ -28,7 +28,7 @@ const styles1 = theme => {
             'height': '130px',
             'padding': '1px',
             'color': 'white',
-            '@media all and (max-width: 400px)': {
+            '@media all and (max-width: 500px)': {
                 'height': '60px',
             }
         },
