@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="166px" height="256px" viewBox="0 0 166 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Bancor</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Classic" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-5223.000000, -4670.000000)" id="Bancor" fill="#0A122A">
+            <g transform="translate(5223.000000, 4670.000000)">
+                <path d="M17.1261668,34.846722 L75.0488171,0.277376522 L133.890265,34.846722 L75.0488171,69.1604865 L17.1261668,34.846722 Z M0,57 L59.4553784,91.5800248 L59.4553784,160.144943 L0,126.373089 L0,57 Z M85,91.9864178 L145.527845,57 L145.527845,126.225817 L85,161.442624 L85,91.9864178 Z M85,186.271205 L165.046592,140 L165.046592,209.652554 L85,255.768551 L85,186.271205 Z M0,151 L60.3172009,186.079414 L60.3172009,255.665782 L0,220.539077 L0,151 Z" id="Logo"></path>
+            </g>
+        </g>
+    </g>
+</svg>
